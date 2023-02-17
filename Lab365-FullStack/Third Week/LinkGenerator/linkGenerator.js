@@ -6,3 +6,4 @@ function linkGenerator() {
   let endURL = `${URL}${number}?text=${message}`;
   document.getElementById("endURL").innerText = endURL;
 }
+console.log("yay");
